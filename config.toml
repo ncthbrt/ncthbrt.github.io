@@ -1,0 +1,25 @@
+baseurl = "https://cuthbert.co.za"
+languageCode = "en"
+title = "Nick Cuthbert "
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/tanksuzuki\">Nick Cuthbert</a> 2016"
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile","csharp","powershell","javascript"]
+
+[[params.social]]
+url = "https://github.com/ncthbrt"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/deepwallgames"
+fa_icon = "fa-twitter"
+
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
